@@ -1,0 +1,14 @@
+# SHEild — Python Dependencies
+# ─────────────────────────────────────────────
+
+# HTTP requests (for smartwatch & police APIs)
+requests>=2.31.0
+
+# SMS / Voice alerts
+twilio>=8.5.0
+
+# Push notifications (optional)
+firebase-admin>=6.2.0
+
+# Environment variable management
+python-dotenv>=1.0.0
